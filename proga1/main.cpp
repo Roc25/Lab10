@@ -1,7 +1,10 @@
 #include <stdio.h>
 
 int main(){
-	int a1,b,d;
+	// Повыщающий коэфициент
+	int a1;
+	int b;
+	int d;
 	printf(":)");	
 	return 0;
 }
